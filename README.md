@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @edenvandevz
+- 👀 I’m interested in mobile blockchain development
+- 🌱 I’m currently learning Java, Move, Rust
+- 💞️ I’m looking to collaborate on mobile development
+- 📫 How to reach me Telegram: @eden_
